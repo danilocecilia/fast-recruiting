@@ -12,6 +12,8 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "@headlessui/react": "^1.2.0",
+    "@heroicons/react": "^1.0.1",
     "autoprefixer": "^9.8.6",
     "axios": "^0.21.1",
     "next": "10.1.3",
